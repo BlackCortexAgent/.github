@@ -1,3 +1,3 @@
-
 # Black Cortex
-https://blackcortex.net
+
+![BlackCortex Logo](https://raw.githubusercontent.com/BlackCortexAgent/.github/refs/heads/main/profile/BlackCortex-_BC-long.svg)
